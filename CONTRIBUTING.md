@@ -1,17 +1,14 @@
 # Contributing to JEDI
 
-## Branch Strategy
+Active development happens on `main`.
 
-- `foundation-program` — active development
-- `legacy-wrapper` — frozen Astryx wrapper era
+Historical branches are retained for reference only.
 
 ## Development
 
 ```bash
 pnpm install
-pnpm build
-pnpm test
-pnpm check:boundaries
+pnpm verify    # test + build + boundaries + app boundaries + metrics
 ```
 
 ## Sprint Discipline

@@ -1,5 +1,8 @@
 # JEDI Upstream Governance
 
+> JEDI is an independent open-source platform.
+> Meta's Astryx is retained as an optional architectural reference and historical influence.
+
 ## 1. Why Astryx?
 
 Astryx is Meta's production design system — eight years of internal use across 13,000+ applications. JEDI references Astryx for:
